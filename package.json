@@ -1,0 +1,19 @@
+{
+  "name": "insertText",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "canvas": "^2.11.2",
+    "dayjs": "^1.11.7",
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.1"
+  }
+}
